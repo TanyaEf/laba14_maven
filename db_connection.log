@@ -1,0 +1,152 @@
+2015-04-01 16:48:27,840 [main] [TRACE   ] - Properties was loaded successfully
+2015-04-01 16:48:27,840 [main] [WARN    ] - Connect to  HOST: jdbc:h2:mem:testdb USER: admin
+2015-04-01 16:48:28,126 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 16:48:28,190 [main] [WARN    ] - Object User was null, new row was not updated in User table
+2015-04-01 16:48:28,213 [main] [WARN    ] - Object User was not found, argument is empty
+2015-04-01 16:48:28,233 [main] [WARN    ] - Object User was null, new row was not removed from User table
+2015-04-01 16:48:28,276 [main] [TRACE   ] - User was found successfully
+2015-04-01 16:48:28,302 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 16:48:28,323 [main] [WARN    ] - Object User was not found
+2015-04-01 16:48:28,324 [main] [TRACE   ] - User was updated successfully
+2015-04-01 16:48:28,378 [main] [TRACE   ] - User was removed successfully
+2015-04-01 16:48:28,420 [main] [TRACE   ] - User was updated successfully
+2015-04-01 16:48:28,507 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 16:48:28,532 [main] [TRACE   ] - Role was found successfully
+2015-04-01 16:48:28,557 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 16:48:28,576 [main] [WARN    ] - Object Role was null, new row was not added to Role table
+2015-04-01 16:48:28,589 [main] [TRACE   ] - Role was added successfully
+2015-04-01 16:48:28,614 [main] [TRACE   ] - Role was removed successfully
+2015-04-01 16:48:28,642 [main] [TRACE   ] - Role was updated successfully
+2015-04-01 16:49:19,898 [main] [TRACE   ] - Properties was loaded successfully
+2015-04-01 16:49:19,899 [main] [WARN    ] - Connect to  HOST: jdbc:h2:mem:testdb USER: admin
+2015-04-01 16:49:20,220 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 16:49:20,284 [main] [WARN    ] - Object User was null, new row was not updated in User table
+2015-04-01 16:49:20,323 [main] [WARN    ] - Object User was not found, argument is empty
+2015-04-01 16:49:20,344 [main] [WARN    ] - Object User was null, new row was not removed from User table
+2015-04-01 16:49:20,384 [main] [TRACE   ] - User was found successfully
+2015-04-01 16:49:20,407 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 16:49:20,430 [main] [WARN    ] - Object User was not found
+2015-04-01 16:49:20,431 [main] [TRACE   ] - User was updated successfully
+2015-04-01 16:49:20,477 [main] [TRACE   ] - User was removed successfully
+2015-04-01 16:49:20,513 [main] [TRACE   ] - User was updated successfully
+2015-04-01 16:49:20,574 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 16:49:20,593 [main] [TRACE   ] - Role was found successfully
+2015-04-01 16:49:20,612 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 16:49:20,632 [main] [WARN    ] - Object Role was null, new row was not added to Role table
+2015-04-01 16:49:20,653 [main] [TRACE   ] - Role was added successfully
+2015-04-01 16:49:20,681 [main] [TRACE   ] - Role was removed successfully
+2015-04-01 16:49:20,712 [main] [TRACE   ] - Role was updated successfully
+2015-04-01 17:03:11,860 [main] [TRACE   ] - Properties was loaded successfully
+2015-04-01 17:03:11,861 [main] [WARN    ] - Connect to  HOST: jdbc:h2:mem:testdb USER: admin
+2015-04-01 17:03:12,316 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 17:03:12,468 [main] [WARN    ] - Object User was null, new row was not updated in User table
+2015-04-01 17:03:12,505 [main] [WARN    ] - Object User was not found, argument is empty
+2015-04-01 17:03:12,529 [main] [WARN    ] - Object User was null, new row was not removed from User table
+2015-04-01 17:03:12,583 [main] [TRACE   ] - User was found successfully
+2015-04-01 17:03:12,610 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 17:03:12,640 [main] [WARN    ] - Object User was not found
+2015-04-01 17:03:12,642 [main] [TRACE   ] - User was updated successfully
+2015-04-01 17:03:12,699 [main] [TRACE   ] - User was removed successfully
+2015-04-01 17:03:12,754 [main] [TRACE   ] - User was updated successfully
+2015-04-01 17:03:12,852 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 17:03:12,887 [main] [TRACE   ] - Role was found successfully
+2015-04-01 17:03:12,906 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 17:03:12,938 [main] [WARN    ] - Object Role was null, new row was not added to Role table
+2015-04-01 17:03:12,962 [main] [TRACE   ] - Role was added successfully
+2015-04-01 17:03:13,001 [main] [TRACE   ] - Role was removed successfully
+2015-04-01 17:03:13,050 [main] [TRACE   ] - Role was updated successfully
+2015-04-01 17:15:33,640 [main] [TRACE   ] - Properties was loaded successfully
+2015-04-01 17:15:33,640 [main] [WARN    ] - Connect to  HOST: jdbc:h2:mem:testdb USER: admin
+2015-04-01 17:15:33,932 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 17:15:33,990 [main] [WARN    ] - Object User was null, new row was not updated in User table
+2015-04-01 17:15:34,019 [main] [WARN    ] - Object User was not found, argument is empty
+2015-04-01 17:15:34,041 [main] [WARN    ] - Object User was null, new row was not removed from User table
+2015-04-01 17:15:34,075 [main] [TRACE   ] - User was found successfully
+2015-04-01 17:15:34,094 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 17:15:34,117 [main] [WARN    ] - Object User was not found
+2015-04-01 17:15:34,119 [main] [TRACE   ] - User was updated successfully
+2015-04-01 17:15:34,172 [main] [TRACE   ] - User was removed successfully
+2015-04-01 17:15:34,216 [main] [TRACE   ] - User was updated successfully
+2015-04-01 17:15:34,290 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 17:15:34,309 [main] [TRACE   ] - Role was found successfully
+2015-04-01 17:15:34,329 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 17:15:34,355 [main] [WARN    ] - Object Role was null, new row was not added to Role table
+2015-04-01 17:15:34,382 [main] [TRACE   ] - Role was added successfully
+2015-04-01 17:15:34,409 [main] [TRACE   ] - Role was removed successfully
+2015-04-01 17:15:34,440 [main] [TRACE   ] - Role was updated successfully
+2015-04-01 17:15:51,744 [main] [TRACE   ] - Properties was loaded successfully
+2015-04-01 17:15:51,744 [main] [WARN    ] - Connect to  HOST: jdbc:h2:mem:testdb USER: admin
+2015-04-01 17:15:52,014 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 17:15:52,071 [main] [WARN    ] - Object User was null, new row was not updated in User table
+2015-04-01 17:15:52,102 [main] [WARN    ] - Object User was not found, argument is empty
+2015-04-01 17:15:52,120 [main] [WARN    ] - Object User was null, new row was not removed from User table
+2015-04-01 17:15:52,155 [main] [TRACE   ] - User was found successfully
+2015-04-01 17:15:52,174 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 17:15:52,197 [main] [WARN    ] - Object User was not found
+2015-04-01 17:15:52,199 [main] [TRACE   ] - User was updated successfully
+2015-04-01 17:15:52,252 [main] [TRACE   ] - User was removed successfully
+2015-04-01 17:15:52,297 [main] [TRACE   ] - User was updated successfully
+2015-04-01 17:15:52,380 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 17:15:52,399 [main] [TRACE   ] - Role was found successfully
+2015-04-01 17:15:52,422 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 17:15:52,448 [main] [WARN    ] - Object Role was null, new row was not added to Role table
+2015-04-01 17:15:52,469 [main] [TRACE   ] - Role was added successfully
+2015-04-01 17:15:52,499 [main] [TRACE   ] - Role was removed successfully
+2015-04-01 17:15:52,528 [main] [TRACE   ] - Role was updated successfully
+2015-04-01 17:15:58,665 [main] [TRACE   ] - Properties was loaded successfully
+2015-04-01 17:15:58,666 [main] [WARN    ] - Connect to  HOST: jdbc:h2:mem:testdb USER: admin
+2015-04-01 17:15:59,179 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 17:15:59,310 [main] [WARN    ] - Object User was null, new row was not updated in User table
+2015-04-01 17:15:59,348 [main] [WARN    ] - Object User was not found, argument is empty
+2015-04-01 17:15:59,378 [main] [WARN    ] - Object User was null, new row was not removed from User table
+2015-04-01 17:15:59,442 [main] [TRACE   ] - User was found successfully
+2015-04-01 17:15:59,495 [main] [WARN    ] - Object User was null, new row was not added to User table
+2015-04-01 17:15:59,557 [main] [WARN    ] - Object User was not found
+2015-04-01 17:15:59,564 [main] [TRACE   ] - User was updated successfully
+2015-04-01 17:15:59,667 [main] [TRACE   ] - User was removed successfully
+2015-04-01 17:15:59,745 [main] [TRACE   ] - User was updated successfully
+2015-04-01 17:15:59,939 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 17:15:59,975 [main] [TRACE   ] - Role was found successfully
+2015-04-01 17:16:00,019 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2015-04-01 17:16:00,075 [main] [WARN    ] - Object Role was null, new row was not added to Role table
+2015-04-01 17:16:00,095 [main] [TRACE   ] - Role was added successfully
+2015-04-01 17:16:00,153 [main] [TRACE   ] - Role was removed successfully
+2015-04-01 17:16:00,221 [main] [TRACE   ] - Role was updated successfully
+2016-01-25 12:25:54,822 [main] [TRACE   ] - Properties was loaded successfully
+2016-01-25 12:25:54,827 [main] [WARN    ] - Connect to  HOST: jdbc:h2:mem:testdb USER: admin
+2016-01-25 12:25:55,236 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2016-01-25 12:25:55,269 [main] [TRACE   ] - Role was found successfully
+2016-01-25 12:25:55,303 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2016-01-25 12:25:55,316 [main] [WARN    ] - Object Role was null, new row was not added to Role table
+2016-01-25 12:25:55,337 [main] [TRACE   ] - Role was added successfully
+2016-01-25 12:25:55,366 [main] [TRACE   ] - Role was removed successfully
+2016-01-25 12:25:55,405 [main] [TRACE   ] - Role was updated successfully
+2016-01-25 12:25:55,445 [main] [WARN    ] - Object User was null, new row was not added to User table
+2016-01-25 12:25:55,503 [main] [WARN    ] - Object User was null, new row was not updated in User table
+2016-01-25 12:25:55,522 [main] [WARN    ] - Object User was not found, argument is empty
+2016-01-25 12:25:55,541 [main] [WARN    ] - Object User was null, new row was not removed from User table
+2016-01-25 12:25:55,571 [main] [TRACE   ] - User was found successfully
+2016-01-25 12:25:55,584 [main] [WARN    ] - Object User was null, new row was not added to User table
+2016-01-25 12:25:55,596 [main] [WARN    ] - Object User was not found
+2016-01-25 12:25:55,597 [main] [TRACE   ] - User was updated successfully
+2016-01-25 12:25:55,615 [main] [TRACE   ] - User was removed successfully
+2016-01-25 12:25:55,638 [main] [TRACE   ] - User was updated successfully
+2016-01-25 12:26:46,267 [main] [TRACE   ] - Properties was loaded successfully
+2016-01-25 12:26:46,271 [main] [WARN    ] - Connect to  HOST: jdbc:h2:mem:testdb USER: admin
+2016-01-25 12:26:46,989 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2016-01-25 12:26:47,027 [main] [TRACE   ] - Role was found successfully
+2016-01-25 12:26:47,069 [main] [WARN    ] - Object Role was null, row was not removed from  Role table
+2016-01-25 12:26:47,096 [main] [WARN    ] - Object Role was null, new row was not added to Role table
+2016-01-25 12:26:47,122 [main] [TRACE   ] - Role was added successfully
+2016-01-25 12:26:47,171 [main] [TRACE   ] - Role was removed successfully
+2016-01-25 12:26:47,211 [main] [TRACE   ] - Role was updated successfully
+2016-01-25 12:26:47,442 [main] [WARN    ] - Object User was null, new row was not added to User table
+2016-01-25 12:26:47,474 [main] [WARN    ] - Object User was null, new row was not updated in User table
+2016-01-25 12:26:47,490 [main] [WARN    ] - Object User was not found, argument is empty
+2016-01-25 12:26:47,510 [main] [WARN    ] - Object User was null, new row was not removed from User table
+2016-01-25 12:26:47,549 [main] [TRACE   ] - User was found successfully
+2016-01-25 12:26:47,575 [main] [WARN    ] - Object User was null, new row was not added to User table
+2016-01-25 12:26:47,603 [main] [WARN    ] - Object User was not found
+2016-01-25 12:26:47,604 [main] [TRACE   ] - User was updated successfully
+2016-01-25 12:26:47,659 [main] [TRACE   ] - User was removed successfully
+2016-01-25 12:26:47,692 [main] [TRACE   ] - User was updated successfully

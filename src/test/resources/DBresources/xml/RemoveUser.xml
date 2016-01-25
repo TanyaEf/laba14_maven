@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <USER ID="2" FIRSTNAME="Ivan" LASTNAME="Ivanov" EMAIL="vano@qwe.qwe" LOGIN="vanya" PASSWORD="pass" ROLEID="2" BIRTHDATE="1999-01-01"/>
+  <USER ID="3" FIRSTNAME="Petr" LASTNAME="Petrov" EMAIL="petrov@qwe.qwe" LOGIN="petr" PASSWORD="pass" ROLEID="2" BIRTHDATE="1999-01-01"/>
+  <USER ID="4" FIRSTNAME="Sidor" LASTNAME="Sidorov" EMAIL="sidor@qwe.qwe" LOGIN="sidorov" PASSWORD="pass" ROLEID="2" BIRTHDATE="1999-01-01"/>
+</dataset>
